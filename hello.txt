@@ -1,2 +1,3 @@
-wo shi hot-fix fen zhi xiu gai de 
+wo shi hot-fix fen zhi xiu gai de
+我是主分支
 hello git
